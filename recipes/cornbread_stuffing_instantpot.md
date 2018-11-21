@@ -6,34 +6,32 @@ Instant Pot Cornbread Stuffing is the perfect Thanksgiving side dish. Fluffy cor
 ## Details
 
 Instant Pot Cornbread Stuffing
-Prep Time
-15 mins
-Cook Time
-15 mins
-Total Time
-30 mins
- 
-Course: Side Dish
-Cuisine: Holiday
-Keyword: pressure cooker cornbread stuffing recipe
-Servings: 6 serings
-Calories: 212 kcal
-Author: Sandy Clifton
+
+| Prep Time | Cook Time | Total Time |
+|:---------:|:---------:|:----------:|
+| 15 mins   | 15 mins   | 30 mins    |
+
+- Course: Side Dish
+- Cuisine: Holiday
+- Keyword: pressure cooker cornbread stuffing recipe
+- Servings: 6 serings
+- Calories: 212 kcal
+- Author: Sandy Clifton
 
 
 ## Ingredients
 
-5-6 cups Prepared Cornbread Pieces (or cook an 8oz box mix in a 8"x8" dish and use that)
-1/2 cup Butter
-1 small Onion, diced
-1 cup Celery, diced
-2 tsp Rubbed Sage
-1/2 tsp Poultry Seasoning
-1 tsp Kosher Salt
-1/4 tsp Pepper
-1 clove Garlic, pressed or finely minced
-1 1/2 cups Turkey Broth
-1 1/2 cups Water, for the pressure cooker
+- 5-6 cups Prepared Cornbread Pieces (or cook an 8oz box mix in a 8"x8" dish and use that)
+- 1/2 cup Butter
+- 1 small Onion, diced
+- 1 cup Celery, diced
+- 2 tsp Rubbed Sage
+- 1/2 tsp Poultry Seasoning
+- 1 tsp Kosher Salt
+- 1/4 tsp Pepper
+- 1 clove Garlic, pressed or finely minced
+- 1 1/2 cups Turkey Broth
+- 1 1/2 cups Water, for the pressure cooker
 
 ## Instructions
 
